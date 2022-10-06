@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nylekunn
+- 👀 I’m interested in moving the world forward with mathematics!
+- 🌱 I’m currently using R to create Black Scholes option chain models and Python to build neaural networs along with other machine learning techniques.
+- 💞️ I’m looking to collaborate on everything data science and mathematics!
+- 📫 Reach out through LinkedIn, Instagram, or through my email at knunn3@my.apsu.edu.
